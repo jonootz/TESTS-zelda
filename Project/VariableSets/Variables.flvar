@@ -1,5 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
-    <Variable Comment="" Name="CompanyName">MadCap Software</Variable>
-    <Variable Comment="" Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Comment="hconsole"
+    Name="NES">Nintendo Entertainment System</Variable>
+  <Variable
+    Comment="hconsole"
+    Name="SNES">Super Nintendo Entertainment System</Variable>
+  <Variable
+    Name="1DateTime"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2015-02-07T13:06:43.7163284-08:00">"On Build" hh:mm:ss tt dd MMMM, yyyy</Variable>
+  <Variable
+    Name="2DateTime"
+    Comment=""
+    Type="DateTimeFileCreated"
+    LastUpdated="2015-02-07T13:07:48.6388200-08:00">"File Creation" hh:mm:ss tt dd MMMM, yyyy</Variable>
+  <Variable
+    Name="3DateTime"
+    Comment=""
+    Type="DateTimeFileSaved"
+    LastUpdated="2015-02-07T13:08:15.2154774-08:00">"File Save" hh:mm:ss tt dd MMMM, yyyy</Variable>
+  <Variable
+    Name="4DateTime"
+    Comment=""
+    Type="DateTimeProjectSaved"
+    LastUpdated="2015-02-07T13:08:34.5604117-08:00">"On Project Save" hh:mm:ss tt dd MMMM, yyyy</Variable>
+  <Variable
+    Name="5DateTime"
+    Comment=""
+    Type="DateTimeManual"
+    LastUpdated="2015-02-07T13:08:53.6973252-08:00">"Manually" hh:mm:ss tt dd MMMM, yyyy</Variable>
 </CatapultVariableSet>

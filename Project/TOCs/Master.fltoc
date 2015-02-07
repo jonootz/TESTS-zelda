@@ -3,42 +3,51 @@
   Version="1">
   <TocEntry
     Title="Topic"
-    Link="/Content/Home.htm" />
+    Link="/Content/Home.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue" />
   <TocEntry
-    Title="HomeConsole">
-    <TocEntry
-      Title="LOZ_HyruleWarriors"
-      Link="/Content/HomeConsole/NES/SNES/N64/GameCube/Wii/WiiU/LOZ_HyruleWarriors.htm" />
-    <TocEntry
-      Title="LOZ_SkywardSword"
-      Link="/Content/HomeConsole/NES/SNES/N64/GameCube/Wii/LOZ_SkywardSword.htm" />
-    <TocEntry
-      Title="LOZ_theTwilightPrincess"
-      Link="/Content/HomeConsole/NES/SNES/N64/GameCube/Wii/LOZ_theTwilightPrincess.htm" />
-    <TocEntry
-      Title="LOZ_FourSwordsAdventures"
-      Link="/Content/HomeConsole/NES/SNES/N64/GameCube/LOZ_FourSwordsAdventures.htm" />
-    <TocEntry
-      Title="LOZ_theWindWaker"
-      Link="/Content/HomeConsole/NES/SNES/N64/GameCube/LOZ_theWindWaker.htm" />
-    <TocEntry
-      Title="LOZ_MajorasMask"
-      Link="/Content/HomeConsole/NES/SNES/N64/LOZ_MajorasMask.htm" />
-    <TocEntry
-      Title="LOZ_OcarinaOfTime"
-      Link="/Content/HomeConsole/NES/SNES/N64/LOZ_OcarinaOfTime.htm" />
-    <TocEntry
-      Title="LOZ_aLinkToThePast"
-      Link="/Content/HomeConsole/NES/SNES/LOZ_aLinkToThePast.htm" />
+    Title="HomeConsole"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
     <TocEntry
       Title="LOZ_(original)"
       Link="/Content/HomeConsole/NES/LOZ_(original).htm" />
     <TocEntry
       Title="LOZ_theAdventureOfLink"
       Link="/Content/HomeConsole/NES/LOZ_theAdventureOfLink.htm" />
+    <TocEntry
+      Title="LOZ_aLinkToThePast"
+      Link="/Content/HomeConsole/NES/SNES/LOZ_aLinkToThePast.htm" />
+    <TocEntry
+      Title="LOZ_OcarinaOfTime"
+      Link="/Content/HomeConsole/NES/SNES/N64/LOZ_OcarinaOfTime.htm" />
+    <TocEntry
+      Title="LOZ_MajorasMask"
+      Link="/Content/HomeConsole/NES/SNES/N64/LOZ_MajorasMask.htm" />
+    <TocEntry
+      Title="LOZ_theWindWaker"
+      Link="/Content/HomeConsole/NES/SNES/N64/GameCube/LOZ_theWindWaker.htm" />
+    <TocEntry
+      Title="LOZ_FourSwordsAdventures"
+      Link="/Content/HomeConsole/NES/SNES/N64/GameCube/LOZ_FourSwordsAdventures.htm" />
+    <TocEntry
+      Title="LOZ_theTwilightPrincess"
+      Link="/Content/HomeConsole/NES/SNES/N64/GameCube/Wii/LOZ_theTwilightPrincess.htm" />
+    <TocEntry
+      Title="LOZ_SkywardSword"
+      Link="/Content/HomeConsole/NES/SNES/N64/GameCube/Wii/LOZ_SkywardSword.htm" />
+    <TocEntry
+      Title="LOZ_HyruleWarriors"
+      Link="/Content/HomeConsole/NES/SNES/N64/GameCube/Wii/WiiU/LOZ_HyruleWarriors.htm" />
   </TocEntry>
   <TocEntry
-    Title="Portable">
+    Title="Portable"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
     <TocEntry
       Title="LOZ_LinksAwakening"
       Link="/Content/Portable/GameBoy/LOZ_LinksAwakening.htm" />

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet Comment="Running Headers and Footers for Adobe FrameMaker and MS Word support. The variables defined within this set should not be renamed." >
+	<Variable Comment="" Name="Running H/F 1">&lt;$paratext[h1]&gt;</Variable>
+  <Variable Comment="" Name="Running H/F 2">&lt;$paratext[h2]&gt;</Variable>
+  <Variable Comment="" Name="Running H/F 3">&lt;$paratext[h3]&gt;</Variable>
+  <Variable Comment="" Name="Running H/F 4">&lt;$paratext[h4]&gt;</Variable>
+  <Variable Comment="" Name="Running H/F 5">&lt;$paratext[h5]&gt;</Variable>
+  <Variable Comment="" Name="Running H/F 6">&lt;$paratext[h6]&gt;</Variable>
+</CatapultVariableSet>

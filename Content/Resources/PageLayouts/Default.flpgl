@@ -21,7 +21,7 @@
                 </xhtml:html>
             </Content>
         </Frame>
-        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9in" X="0px" Y="0px" Right="0px" Bottom="0px">
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9in" X="0px" Y="0px" Right="0px" Bottom="0px" BorderLeftStyle="solid" BorderLeftWidth="4px" BorderLeftColor="#deb887" BorderRightStyle="solid" BorderRightWidth="4px" BorderRightColor="#deb887" BorderTopStyle="solid" BorderTopWidth="4px" BorderTopColor="#deb887" BorderBottomStyle="solid" BorderBottomWidth="4px" BorderBottomColor="#deb887" BorderTopLeftRadius="7px" Anchors="" BorderBottomRightRadius="15px">
         </Frame>
     </Page>
 </PageStyles>

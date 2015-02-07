@@ -8,27 +8,54 @@
     Name="SNES">Super Nintendo Entertainment System</Variable>
   <Variable
     Name="1DateTime"
-    Comment=""
+    Comment="on build"
     Type="DateTime"
     LastUpdated="2015-02-07T13:06:43.7163284-08:00">"On Build" hh:mm:ss tt dd MMMM, yyyy</Variable>
   <Variable
     Name="2DateTime"
-    Comment=""
+    Comment="file creation"
     Type="DateTimeFileCreated"
     LastUpdated="2015-02-07T13:07:48.6388200-08:00">"File Creation" hh:mm:ss tt dd MMMM, yyyy</Variable>
   <Variable
     Name="3DateTime"
-    Comment=""
+    Comment="file save"
     Type="DateTimeFileSaved"
     LastUpdated="2015-02-07T13:08:15.2154774-08:00">"File Save" hh:mm:ss tt dd MMMM, yyyy</Variable>
   <Variable
     Name="4DateTime"
-    Comment=""
+    Comment="project save"
     Type="DateTimeProjectSaved"
     LastUpdated="2015-02-07T13:08:34.5604117-08:00">"On Project Save" hh:mm:ss tt dd MMMM, yyyy</Variable>
   <Variable
     Name="5DateTime"
-    Comment=""
+    Comment="manually"
     Type="DateTimeManual"
     LastUpdated="2015-02-07T13:08:53.6973252-08:00">"Manually" hh:mm:ss tt dd MMMM, yyyy</Variable>
+  <Variable
+    Name="N64"
+    Comment="hconsole">Nintendo 64</Variable>
+  <Variable
+    Name="NGC"
+    Comment="hconsole">GameCube</Variable>
+  <Variable
+    Name="Wii"
+    Comment="hconsole">Wii</Variable>
+  <Variable
+    Name="WiiU"
+    Comment="hconsole">WiiU</Variable>
+  <Variable
+    Name="GB"
+    Comment="pconsole">GameBoy</Variable>
+  <Variable
+    Name="GBC"
+    Comment="pconsole">GameBoy Color</Variable>
+  <Variable
+    Name="GBA"
+    Comment="pconsole">GameBoy Advance</Variable>
+  <Variable
+    Name="NDS"
+    Comment="pconsole">Nintendo DS</Variable>
+  <Variable
+    Name="N3DS"
+    Comment="pconsole">Nintendo 3DS</Variable>
 </CatapultVariableSet>

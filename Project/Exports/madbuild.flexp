@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultExportProjectFile
+  DestinationType="ManualSelection"
+  SourceProjectPath="C:\GIT\Zelda\Zelda.flprj"
+  DestinationName="madbuild"
+  DestinationPath="C:\Users\jharkins\Documents\My Project Exports\"
+  ExportType="Files"
+  TargetConvertVariables="false"
+  TargetConvertSnippets="false">
+  <SelectedContentFiles>
+    <Url
+      Source="Resources" />
+    <Url
+      Source="Resources/Images" />
+    <Url
+      Source="Resources/Images/ALBW.jpg" />
+    <Url
+      Source="Resources/Images/FSA.jpg" />
+    <Url
+      Source="Resources/Images/HW.jpg" />
+    <Url
+      Source="Resources/Images/LA.jpg" />
+    <Url
+      Source="Resources/Images/legend-of-zelda-ocarina-of-time-cover.jpg" />
+    <Url
+      Source="Resources/Images/legend-of-zelda-skyward-sword-wii-cover-front-72777.jpg" />
+    <Url
+      Source="Resources/Images/LOZimage.png" />
+    <Url
+      Source="Resources/Images/MM.jpg" />
+    <Url
+      Source="Resources/Images/NOA.png" />
+    <Url
+      Source="Resources/Images/OOT 3D cover_large.jpg" />
+    <Url
+      Source="Resources/Images/ssTeaseimage.png" />
+    <Url
+      Source="Resources/Images/ST cover_large.jpg" />
+    <Url
+      Source="Resources/Images/TMC cover_large.jpg" />
+    <Url
+      Source="Resources/Images/TPH cover_large.jpg" />
+    <Url
+      Source="Resources/Images/Z.png" />
+    <Url
+      Source="Resources/Images/zelda_ii_the_adventure_of_link.cover.front.2.jpg" />
+    <Url
+      Source="Resources/Images/Zelda_Logo.svg" />
+    <Url
+      Source="Resources/Images/zelda-timeline-big.jpg" />
+    <Url
+      Source="Resources/Multimedia" />
+    <Url
+      Source="Resources/Multimedia/fight3.swf" />
+    <Url
+      Source="Resources/PageLayouts" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/Snippets" />
+    <Url
+      Source="Resources/Snippets/ALBW.flsnp" />
+    <Url
+      Source="Resources/Snippets/ALTTP.flsnp" />
+    <Url
+      Source="Resources/Snippets/ALTTP-FS.flsnp" />
+    <Url
+      Source="Resources/Snippets/HW.flsnp" />
+    <Url
+      Source="Resources/Snippets/LA.flsnp" />
+    <Url
+      Source="Resources/Snippets/LOZ.flsnp" />
+    <Url
+      Source="Resources/Snippets/MM.flsnp" />
+    <Url
+      Source="Resources/Snippets/MM3D.flsnp" />
+    <Url
+      Source="Resources/Snippets/OOA.flsnp" />
+    <Url
+      Source="Resources/Snippets/OOS.flsnp" />
+    <Url
+      Source="Resources/Snippets/OOT.flsnp" />
+    <Url
+      Source="Resources/Snippets/OOT3D.flsnp" />
+    <Url
+      Source="Resources/Snippets/SS.flsnp" />
+    <Url
+      Source="Resources/Snippets/ST.flsnp" />
+    <Url
+      Source="Resources/Snippets/TAOL.flsnp" />
+    <Url
+      Source="Resources/Snippets/TMC.flsnp" />
+    <Url
+      Source="Resources/Snippets/TPH.flsnp" />
+    <Url
+      Source="Resources/Snippets/TTP.flsnp" />
+    <Url
+      Source="Resources/Snippets/TWW.flsnp" />
+    <Url
+      Source="Resources/Stylesheets" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/TableStyles" />
+    <Url
+      Source="Resources/TableStyles/History.css" />
+    <Url
+      Source="Resources/LOZ_MASTER-Page.flmsp" />
+    <Url
+      Source="Home.htm" />
+  </SelectedContentFiles>
+  <SelectedProjectFiles>
+    <Url
+      Source="Advanced" />
+    <Url
+      Source="Advanced/Auto Index Sets" />
+    <Url
+      Source="Advanced/Auto Index Sets/AutoIndexSet.flaix" />
+    <Url
+      Source="Advanced/Auto Suggestion Sets" />
+    <Url
+      Source="Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx" />
+    <Url
+      Source="Advanced/Browse Sequences" />
+    <Url
+      Source="Advanced/Browse Sequences/BrowseSequence.flbrs" />
+    <Url
+      Source="Advanced/CSH" />
+    <Url
+      Source="Advanced/CSH/AliasFile.flali" />
+    <Url
+      Source="Advanced/CSH/HeaderFile.h" />
+    <Url
+      Source="Advanced/File Tags" />
+    <Url
+      Source="Advanced/File Tags/FileTagSetAuthor.flfts" />
+    <Url
+      Source="Advanced/File Tags/FileTagSetStatus.flfts" />
+    <Url
+      Source="Advanced/Index Link Sets" />
+    <Url
+      Source="Advanced/Index Link Sets/IndexLinkSet.flixl" />
+    <Url
+      Source="Advanced/Relationship Tables" />
+    <Url
+      Source="Advanced/Relationship Tables/RelationshipTable.flrtb" />
+    <Url
+      Source="Advanced/Search Filters" />
+    <Url
+      Source="Advanced/Search Filters/SearchFilter.flsfs" />
+    <Url
+      Source="Advanced/Synonyms" />
+    <Url
+      Source="Advanced/Synonyms/Synonyms.mcsyns" />
+    <Url
+      Source="Advanced/NewSequence.flbrs" />
+    <Url
+      Source="ConditionTagSets" />
+    <Url
+      Source="ConditionTagSets/Default.flcts" />
+    <Url
+      Source="Destinations" />
+    <Url
+      Source="Destinations/Destination.fldes" />
+    <Url
+      Source="Exports" />
+    <Url
+      Source="Exports/Zelda.flexp" />
+    <Url
+      Source="Exports/Zelda1.flexp" />
+    <Url
+      Source="Exports/Zelda2.flexp" />
+    <Url
+      Source="Exports/Zelda3.flexp" />
+    <Url
+      Source="Exports/Zelda4.flexp" />
+    <Url
+      Source="Exports/Zelda5.flexp" />
+    <Url
+      Source="Exports/Zelda6.flexp" />
+    <Url
+      Source="Exports/Zelda10.flexp" />
+    <Url
+      Source="Exports/Zelda11.flexp" />
+    <Url
+      Source="Glossaries" />
+    <Url
+      Source="Glossaries/Glossary.flglo" />
+    <Url
+      Source="Imports" />
+    <Url
+      Source="Reports" />
+    <Url
+      Source="Reports/Critical Issues Report.flrep" />
+    <Url
+      Source="Reports/Empty Report.flrep" />
+    <Url
+      Source="Reports/Unused Items Report.flrep" />
+    <Url
+      Source="Skins" />
+    <Url
+      Source="Skins/Default.flskn" />
+    <Url
+      Source="Skins/HTML5.flskn" />
+    <Url
+      Source="Targets" />
+    <Url
+      Source="Targets/FrameMaker.fltar" />
+    <Url
+      Source="Targets/h5.fltar" />
+    <Url
+      Source="TOCs" />
+    <Url
+      Source="TOCs/Master.fltoc" />
+    <Url
+      Source="VariableSets" />
+    <Url
+      Source="VariableSets/RunningVariables.flvar" />
+    <Url
+      Source="VariableSets/Variables.flvar" />
+  </SelectedProjectFiles>
+</CatapultExportProjectFile>

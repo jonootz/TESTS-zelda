@@ -5,8 +5,7 @@
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:body>
-                        <xhtml:p><MadCap:variable xhtml:name="RunningVariables.Running H/F 1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-                        </xhtml:p>
+                        <xhtml:p>PageLayout- <MadCap:variable xhtml:name="RunningVariables.Running H/F 1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
@@ -17,7 +16,7 @@
                     <xhtml:head>
                     </xhtml:head>
                     <xhtml:body>
-                        <xhtml:p><MadCap:variable xhtml:name="Heading.Level1" /> <MadCap:variable xhtml:name="System.PageNumber" /> of <MadCap:variable xhtml:name="System.PageCount" /></xhtml:p>
+                        <xhtml:p>PageLayout- <MadCap:variable xhtml:name="Heading.Level1" /> <MadCap:variable xhtml:name="System.PageNumber" /> of <MadCap:variable xhtml:name="System.PageCount" /></xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
             </Content>

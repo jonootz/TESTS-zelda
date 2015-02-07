@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="83" MadCap:lastWidth="1108">
+    <head>
+    </head>
+    <body>
+        <p>
+            <MadCap:pageHeader>
+                <p>MasterPage- <MadCap:variable name="System.PageNumber" /> -</p>
+            </MadCap:pageHeader>
+        </p>
+        <MadCap:bodyProxy />
+        <p>
+            <MadCap:pageFooter>
+                <p>Master Page- <MadCap:variable name="System.PageNumber" /> -</p>
+            </MadCap:pageFooter>
+        </p>
+    </body>
+</html>

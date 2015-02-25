@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="ZELDANEW" Link="/Content/Portable/GameBoy/GBA/NDS/3DS/LOZ_OcarinaOfTime3D.htm" />
+    <Map Name="ZELDANEW1" Link="/Content/Portable/GameBoy/GBA/NDS/3DS/LOZ_MajorasMask3D.htm" />
+    <Map Name="ZELDANEW2" Link="/Content/Portable/GameBoy/GBA/NDS/3DS/LOZ_aLinkBetweenWorlds.htm" />
+    <Map Name="ZELDANEW3" Link="/Content/Portable/GameBoy/GBA/NDS/LOZ_thePhantomHourglass.htm" />
+    <Map Name="ZELDANEW4" Link="/Content/Portable/GameBoy/GBA/NDS/LOZ_SpiritTracks.htm" />
+    <Map Name="ZELDANEW5" Link="/Content/Portable/GameBoy/GBA/LOZ_theMinishCap.htm" />
+    <Map Name="ZELDANEW6" Link="/Content/Portable/GameBoy/GBA/LOZ_aLinkToThePast-FourSwords.htm" />
+    <Map Name="ZELDANEW7" Link="/Content/Portable/GameBoy/LOZ_OracleOfSeasons.htm" />
+    <Map Name="ZELDANEW8" Link="/Content/Portable/GameBoy/LOZ_OracleOfAges.htm" />
+    <Map Name="ZELDANEW9" Link="/Content/Portable/GameBoy/LOZ_LinksAwakening.htm" />
+    <Map Name="ZELDANEW10" Link="/Content/HomeConsole/NES/SNES/N64/GameCube/Wii/WiiU/LOZ_HyruleWarriors.htm" />
+    <Map Name="ZELDANEW11" Link="/Content/HomeConsole/NES/SNES/N64/GameCube/Wii/LOZ_theTwilightPrincess.htm" />
+    <Map Name="ZELDANEW12" Link="/Content/HomeConsole/NES/SNES/N64/GameCube/Wii/LOZ_SkywardSword.htm" />
+    <Map Name="ZELDANEW13" Link="/Content/HomeConsole/NES/SNES/N64/GameCube/LOZ_theWindWaker.htm" />
+    <Map Name="ZELDANEW14" Link="/Content/HomeConsole/NES/SNES/N64/GameCube/LOZ_FourSwordsAdventures.htm" />
+    <Map Name="ZELDANEW15" Link="/Content/HomeConsole/NES/SNES/N64/LOZ_OcarinaOfTime.htm" />
+    <Map Name="ZELDANEW16" Link="/Content/HomeConsole/NES/SNES/N64/LOZ_MajorasMask.htm" />
+    <Map Name="ZELDANEW17" Link="/Content/HomeConsole/NES/SNES/LOZ_aLinkToThePast.htm" />
+    <Map Name="ZELDANEW18" Link="/Content/HomeConsole/NES/LOZ_theAdventureOfLink.htm" />
+    <Map Name="ZELDANEW19" Link="/Content/HomeConsole/NES/LOZ_(original).htm" />
+</CatapultAliasFile>

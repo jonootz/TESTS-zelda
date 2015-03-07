@@ -93,3 +93,30 @@ div.aaa
 	color: #008000;
 }
 
+MadCap|conceptLink.Home_Console
+{
+	mc-label: 'See Home Console Specific Games';
+}
+
+div.Main
+{
+	font-family: 'Chaparral Pro Light';
+	margin-left: 0px;
+	margin-right: auto;
+	background-color: #696969;
+	color: #ffffff;
+	border: groove 13px #daa520;
+}
+
+body.Main
+{
+	font-family: Arial;
+	background-color: #f0e68c;
+}
+
+img.OfficialLogoCentered
+{
+	border: none;
+	clear: both;
+}
+

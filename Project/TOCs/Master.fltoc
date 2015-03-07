@@ -2,7 +2,7 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Topic"
+    Title="Welcome"
     Link="/Content/Home.htm"
     BreakType="chapter"
     StartSection="false"
@@ -80,6 +80,10 @@
       Link="/Content/Portable/GameBoy/GBA/NDS/3DS/LOZ_MajorasMask3D.htm" />
   </TocEntry>
   <TocEntry
-    Title="Majora's Mask Limited Edition"
-    Link="/Content/SpecialPages/MM New 3DS XL.htm" />
+    Title="News &amp; Events"
+    MarkAsNew="true">
+    <TocEntry
+      Title="Majora's Mask Limited Edition"
+      Link="/Content/SpecialPages/MM New 3DS XL.htm" />
+  </TocEntry>
 </CatapultToc>

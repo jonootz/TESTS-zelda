@@ -5,7 +5,8 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  OutputFile="Zelda">
+  OutputFile="Zelda"
+  Skin="/Project/Skins/ZeldaTopNav.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

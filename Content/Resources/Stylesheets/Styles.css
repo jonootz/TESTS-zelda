@@ -101,11 +101,12 @@ MadCap|conceptLink.Home_Console
 div.Main
 {
 	font-family: 'Chaparral Pro Light';
-	margin-left: 0px;
-	margin-right: auto;
 	background-color: #696969;
 	color: #ffffff;
 	border: groove 13px #daa520;
+	margin-left: 15px;
+	margin-right: 15px;
+	padding: 15px;
 }
 
 body.Main

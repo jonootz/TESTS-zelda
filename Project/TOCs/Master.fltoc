@@ -86,4 +86,13 @@
       Title="Majora's Mask Limited Edition"
       Link="/Content/SpecialPages/MM New 3DS XL.htm" />
   </TocEntry>
+  <TocEntry
+    Title="Artwork">
+    <TocEntry
+      Title="Legend of Zelda HD"
+      Link="/Content/Artwork/Legend of Zelda HD.htm" />
+    <TocEntry
+      Title="The Adventure of Link HD"
+      Link="/Content/Artwork/The Adventure of Link HD.htm" />
+  </TocEntry>
 </CatapultToc>

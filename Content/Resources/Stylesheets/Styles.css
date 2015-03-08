@@ -121,3 +121,17 @@ img.OfficialLogoCentered
 	clear: both;
 }
 
+div.Bug	/*Bug Reminders*/
+{
+	margin: 10px;
+	border-radius: 10px;
+	background-color: #ff0000;
+	padding: 10px;
+	background-image: url('../Images/Bug.png');
+	background-repeat: no-repeat;
+	mc-auto-number-format: '{color white}{b}Bug:{/b}{/color} ';
+	mc-auto-number-position: float-left;
+	width: auto;
+	border: solid 2px #567351;
+}
+

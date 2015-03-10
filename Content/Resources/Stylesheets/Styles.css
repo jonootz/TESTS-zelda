@@ -173,3 +173,12 @@ img.fitWindow
 	border: none;
 }
 
+p.images
+{
+	font-size: 12.0pt;
+	margin-bottom: 0pt;
+	background-color: #eee8aa;
+	margin-top: 10pt;
+	padding: 10px;
+}
+

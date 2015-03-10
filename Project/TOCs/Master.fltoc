@@ -95,4 +95,13 @@
       Title="The Adventure of Link HD"
       Link="/Content/Artwork/The Adventure of Link HD.htm" />
   </TocEntry>
+  <TocEntry
+    Title="Miiverse">
+    <TocEntry
+      Title="Miiverse Chronology (inline - one paragraph)"
+      Link="/Content/Miiverse-Chronology.htm" />
+    <TocEntry
+      Title="Miiverse with Drafts (each in a paragraph)"
+      Link="/Content/Miiverse-With Drafts.htm" />
+  </TocEntry>
 </CatapultToc>

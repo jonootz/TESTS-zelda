@@ -162,3 +162,9 @@ p.allimages img
 	margin: 10px;
 }
 
+img.Thumb
+{
+	border: none;
+	mc-thumbnail: popup;
+}
+

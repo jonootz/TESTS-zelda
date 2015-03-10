@@ -23,7 +23,9 @@
           <Property
             Name="BackgroundImage">none</Property>
           <Property
-            Name="BackgroundGradient">vertical #daa520 #87ceeb</Property>
+            Name="BackgroundColor">#daa520</Property>
+          <Property
+            Name="BackgroundGradient">vertical #daa520 #daa520</Property>
         </Properties>
       </Style>
       <Style

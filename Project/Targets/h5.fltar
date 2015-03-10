@@ -6,7 +6,8 @@
   Destinations=""
   GlossaryTermConversion="marked"
   OutputFile="Zelda"
-  Skin="/Project/Skins/ZeldaTopNav.flskn">
+  Skin="/Project/Skins/ZeldaTopNav.flskn"
+  ConditionTagExpression="exclude[Show-Hide.Red] ">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

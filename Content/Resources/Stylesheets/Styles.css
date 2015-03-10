@@ -168,3 +168,8 @@ img.Thumb
 	mc-thumbnail: popup;
 }
 
+img.fitWindow
+{
+	border: none;
+}
+

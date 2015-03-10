@@ -106,5 +106,11 @@
     <TocEntry
       Title="Miiverse with Slides Showing Progression of Select Pieces"
       Link="/Content/Miiverse - Slides Progression.htm" />
+    <TocEntry
+      Title="Miiverse Collections"
+      Link="/Content/Miiverse - Collections.htm" />
+    <TocEntry
+      Title="Miiverse Scaled to Fit Window"
+      Link="/Content/Miiverse - Mobile.htm" />
   </TocEntry>
 </CatapultToc>

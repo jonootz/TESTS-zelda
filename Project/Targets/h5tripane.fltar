@@ -6,7 +6,10 @@
   Destinations=""
   GlossaryTermConversion="marked"
   Skin="/Project/Skins/h5Tripane.flskn"
-  ConditionTagExpression="exclude[Show-Hide.Red] ">
+  ConditionTagExpression="exclude[Show-Hide.Red] "
+  MenuSkin="/Project/Skins/Menu.flskn"
+  TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
+  MasterPage="/Content/Resources/MשדאקרPשעקPage.flmsp">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

@@ -53,6 +53,40 @@
             </Properties>
           </StyleClass>
         </Classes>
+        <Properties>
+          <Property
+            Name="BorderRight">solid 2px #7b6b1e</Property>
+          <Property
+            Name="BorderLeft">solid 2px #7b6b1e</Property>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+          <Property
+            Name="BorderBottom">solid 2px #000000</Property>
+          <Property
+            Name="BorderTop">solid 2px #ffffff</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Toolbar">
+        <Properties>
+          <Property
+            Name="Float">right</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Toolbar Button Separator">
+        <Properties>
+          <Property
+            Name="Color">#d3c91a</Property>
+          <Property
+            Name="Height">40px</Property>
+        </Properties>
       </Style>
     </Styles>
   </Stylesheet>

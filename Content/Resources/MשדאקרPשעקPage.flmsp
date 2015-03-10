@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="197" MadCap:lastWidth="880">
+    <head>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: Print ExpandAll Separator PreviousTopic CurrentTopicIndex NextTopic;" data-mc-skin="/Project/Skins/Toolbar.flskn" />
+        <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+        <MadCap:bodyProxy />
+        <MadCap:miniTocProxy />
+        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" data-mc-skin="/Project/Skins/Toolbar.flskn" />
+    </body>
+</html>

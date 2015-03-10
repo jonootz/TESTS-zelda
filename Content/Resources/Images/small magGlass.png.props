@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay Profile="C:\Users\test1\Documents\My Profiles\MyProfile.capro" ProfileHash="c9688ed4f1c493eb5efd6dde177e88cb">
+        <OriginalImage ComputedWidth="26" ComputedHeight="25" Format="tiff" Type="Image" ShapeTimeSpan="10000" EnableCropRectangle="false" CropRectangle="0,0,0,0">SUkqAFICAACAACBQOCQWDQeEQmBmeGEABQ8gP6JC+HgIIP+MPgAxtkwNoPaQLhQyN8QqTSeUSk1SsMRJ/J+NgEkSmUNiYllLTloTSeT2CGmgFCXJ+KhCXPCKpiXNmBuCYhiYih91MzgWrBiByWBHFL11MT6wQeVmoMP2zNeiwNkTEozlLOieG+5BB83VHzEwQSXEFM31gWGw0A0r+BkCBsCupcg4CTYJDwM8U0DZMYpHLPDGQrBFCBq+jgPQCm3XDMwgv6cEArVM+BiiBoHEoDSwjHZDX7HZzQ0bssTFTxh/rhMcMk7mDbs0LeYzOBFHErDjSiGGcQRVv1N9uhOdsM9GCGTwOerAWy2YUpr0NjvTTBPeBgiYhnR9HBMeBjiYkm3Lj1wq5DeCB9QEd6ssSBL+gA5BLpiNDgDi4ZMEhBCELGJDgFutTEhzBDBDQgZLpcaB8RGHKRlCrUJgAwRToGLDgQgTA0wQ/4IHpGxxvGBiYkQxI8wQ5Deo3FiBI0jYcrcnb+sE2SBD+gjgIIPMIEQ0sKrMfpTqK4EpOHKklKBJgAScny1o2QJ6zQYETRQADpiAmIvrxJ6MOE4kOTAgcxoM4D+IEUzgEktKDuwdDxqwhR8OAQMpzuNMwz0gs+HvSYozWsaWokP6Yhg+6ERCipsOASMIGRRtHoRSVKTWsIzVaFD0E09UUoTJc81ROlJnvSqSVnXsVTxJtbuDXNdxPX1Z1rYKD1TXVV2PXzkJgja8oHZlizZZ9swS3ZPoGDFiWdbVxIO04vgRcNx3TdV1pMgIEAD+AAQAAQAAAAAAAAAAAQQAAQAAABoAAAABAQQAAQAAABkAAAACAQMABAAAABgDAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAQAAAAgAAAAVAQMAAQAAAAQAAAAWAQQAAQAAABkAAAAXAQQAAQAAAEoCAAAaAQUAAQAAACADAAAbAQUAAQAAACgDAAAcAQMAAQAAAAEAAAAoAQMAAQAAAAIAAAA9AQMAAQAAAAIAAABSAQMAAQAAAAIAAAAAAAAACAAIAAgACAAAdwEA6AMAAAB3AQDoAwAA</OriginalImage>
+        <Shapes>
+            <Shape Type="Oval" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" X="8" Y="1" Width="15" Height="15" Right="574" Bottom="582" Left="11" Top="3" LineWidth="2" LineColor="#696969" ShapeTimeSpan="10000">
+            </Shape>
+            <Shape Type="Polyline" Coordinates="10,13,1,22" ArrowHeads="none" LineWidth="3" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" LineColor="#696969" ShapeTimeSpan="10000" />
+        </Shapes>
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

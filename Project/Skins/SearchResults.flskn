@@ -1,6 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultSkin Version="2" 
-	SkinType="Component" 
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
   Comment="HTML5 Search Results skin"
-	ComponentType="SearchResults">
+  ComponentType="SearchResults">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Search Heading">
+        <Properties>
+          <Property
+            Name="MarginTop">20px</Property>
+          <Property
+            Name="MarginBottom">21px</Property>
+          <Property
+            Name="PaddingTop">18px</Property>
+          <Property
+            Name="PaddingBottom">2px</Property>
+          <Property
+            Name="PaddingLeft">5px</Property>
+          <Property
+            Name="PaddingRight">5px</Property>
+          <Property
+            Name="BorderTop">none 3px </Property>
+          <Property
+            Name="FontFamily">Viner Hand ITC</Property>
+          <Property
+            Name="Color">#b8860b</Property>
+          <Property
+            Name="BorderBottom">groove 3px #b8860b</Property>
+          <Property
+            Name="BorderRight">dashed 1px #9acd32</Property>
+          <Property
+            Name="BorderLeft">groove 7px #daa520</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link">
+        <Properties>
+          <Property
+            Name="FontFamily">Copperplate Gothic Bold</Property>
+          <Property
+            Name="Color">#82a975</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Abstract">
+        <Properties>
+          <Property
+            Name="FontStyle">italic</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Path">
+        <Properties>
+          <Property
+            Name="Color">#b8860b</Property>
+          <Property
+            Name="FontWeight">normal</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
 </CatapultSkin>

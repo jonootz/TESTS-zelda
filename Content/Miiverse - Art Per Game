@@ -7,8 +7,7 @@
         <h1>Miiverse Art per Game (in a table)</h1>
         <div class="Bug" MadCap:conditions="Show-Hide.Red" MadCap:autonum="&lt;span style=&quot;color: White;&quot; class=&quot;mcFormatColor&quot;&gt;&lt;b&gt;Bug:&lt;/b&gt;&lt;/span&gt; ">
             <ul>
-                <li><a name="bug"></a>
-                </li>
+                <li><a name="bug"></a>Shows XML in h5 output in version 3 of file ---&gt; same in v10 too</li>
             </ul>
         </div>
         <div class="Why" MadCap:conditions="Show-Hide.Red" MadCap:autonum="&lt;span style=&quot;color: Gray;&quot; class=&quot;mcFormatColor&quot;&gt;&lt;b&gt;Why?:&lt;/b&gt;&lt;/span&gt; ">

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="3091" MadCap:lastWidth="2817">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="2307" MadCap:lastWidth="2838">
     <head>
         <link href="Resources/TableStyles/Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
@@ -133,10 +133,18 @@
                 </tr>
                 <tr class="Body-Body1">
                     <td class="BodyE-Column1-Body1">
-                        <p class="images">
-                            <img src="Resources/Images/MiiVerse/zlCfzR-EX7go7HYabU.jpg" class="tableImage" />
-                            <img src="Resources/Images/MiiVerse/zlCfzSUysiEXSxjAbd.jpg" class="tableImage" />
-                        </p>
+                        <MadCap:slideshow>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzR-EX7go7HYabU.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzSUysiEXSxjAbd.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                        </MadCap:slideshow>
                     </td>
                     <td class="BodyE-Column1-Body1">&#160;</td>
                     <td class="BodyE-Column1-Body1">&#160;</td>
@@ -158,11 +166,23 @@
                     </td>
                     <td class="BodyE-Column1-Body2">&#160;</td>
                     <td class="BodyE-Column1-Body2">
-                        <p class="images">
-                            <img src="Resources/Images/MiiVerse/zlCfzSXtZ4sWuP7DLE.jpg" class="tableImage" />
-                            <img src="Resources/Images/MiiVerse/zlCfzSX_pbU_MbMwyu.jpg" class="tableImage" />
-                            <img src="Resources/Images/MiiVerse/zlCfzSZLwqQczdGZsB.jpg" class="tableImage" />
-                        </p>
+                        <MadCap:slideshow>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzSXtZ4sWuP7DLE.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzSX_pbU_MbMwyu.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzSZLwqQczdGZsB.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                        </MadCap:slideshow>
                     </td>
                     <td class="BodyE-Column1-Body2">&#160;</td>
                     <td class="BodyE-Column1-Body2">&#160;</td>
@@ -258,8 +278,15 @@
                         <img src="Resources/Images/MiiVerse/zlCfzRF8e1kbaENuJU.jpg" class="tableImage" />
                     </td>
                     <td class="BodyE-Column1-Body2">
-                        <img src="Resources/Images/MiiVerse/zlCfzRGbwEQozRLgwP.jpg" class="tableImage" />
-                        <img src="Resources/Images/MiiVerse/zlCfzRGlb3EgcSf22K.jpg" class="tableImage" />
+                        <p>
+                            <MadCap:expanding>
+                                <MadCap:expandingHead>
+                                    <img src="Resources/Images/MiiVerse/zlCfzRGbwEQozRLgwP.jpg" class="tableImage" />:</MadCap:expandingHead>
+                                <MadCap:expandingBody>
+                                    <img src="Resources/Images/MiiVerse/zlCfzRGlb3EgcSf22K.jpg" class="tableImage" />
+                                </MadCap:expandingBody>
+                            </MadCap:expanding>
+                        </p>
                     </td>
                     <td class="BodyE-Column1-Body2">
                         <img src="Resources/Images/MiiVerse/zlCfzRpjjqk0q_9nDI.jpg" class="tableImage" />
@@ -386,10 +413,18 @@
                         <img src="Resources/Images/MiiVerse/zlCfzRHgsjYgf_hw7p.jpg" class="tableImage" />
                     </td>
                     <td class="BodyE-Column1-Body2">
-                        <p class="images">
-                            <img src="Resources/Images/MiiVerse/zlCfzRzM2rwyKoOUFi.jpg" class="tableImage" />
-                            <img src="Resources/Images/MiiVerse/zlCfzR8VS9E0i3bQS3.jpg" class="tableImage" />
-                        </p>
+                        <MadCap:slideshow>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzRzM2rwyKoOUFi.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzR8VS9E0i3bQS3.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                        </MadCap:slideshow>
                     </td>
                     <td class="BodyE-Column1-Body2">&#160;</td>
                     <td class="BodyE-Column1-Body2">&#160;</td>
@@ -430,7 +465,9 @@
                     <td class="BodyE-Column1-Body2">&#160;</td>
                     <td class="BodyE-Column1-Body2">&#160;</td>
                     <td class="BodyE-Column1-Body2">&#160;</td>
-                    <td class="BodyE-Column1-Body2">&#160;</td>
+                    <td class="BodyE-Column1-Body2">
+                        <p>&#160;</p>
+                    </td>
                     <td class="BodyE-Column1-Body2">&#160;</td>
                     <td class="BodyE-Column1-Body2">&#160;</td>
                     <td class="BodyE-Column1-Body2">&#160;</td>
@@ -461,37 +498,57 @@
                                 </p>
                             </MadCap:slide>
                             <MadCap:slide>
-                                <h2>Slide 2</h2>
-                                <p>Delete this text and replace it with your own slide content.</p>
-                                <p>You can place almost any kind of content into a slide, including text, tables, snippets, images, multimedia, and more.</p>
-                                <p>&#160;</p>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzRFkeM4EWaxMg8.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzRFllRsXnYduKs.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzRF0tz49j8Tpjw.jpg" class="tableImage" />
+                                </p>
                             </MadCap:slide>
                         </MadCap:slideshow>
-                        <p class="images">
-                            <img src="Resources/Images/MiiVerse/zlCfzRFkeM4EWaxMg8.jpg" class="tableImage" />
-                        </p>
-                        <p class="images">
-                            <img src="Resources/Images/MiiVerse/zlCfzRFllRsXnYduKs.jpg" class="tableImage" />
-                        </p>
-                        <p class="images">
-                            <img src="Resources/Images/MiiVerse/zlCfzRF0tz49j8Tpjw.jpg" class="tableImage" />
-                        </p>
                     </td>
                     <td class="BodyE-Column1-Body1">
                         <img src="Resources/Images/MiiVerse/zlCfzRG0NBs18INHsL.jpg" class="tableImage" />
                     </td>
                     <td class="BodyE-Column1-Body1">
-                        <p class="images">
-                            <img src="Resources/Images/MiiVerse/zlCfzRG2V-YS6ev-dF.jpg" class="tableImage" />
-                            <img src="Resources/Images/MiiVerse/zlCfzRHIQakezaP9kl.jpg" class="tableImage" />
-                            <img src="Resources/Images/MiiVerse/zlCfzRHRK8sXqSHJGZ.jpg" class="tableImage" />
-                        </p>
+                        <MadCap:slideshow>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzRG2V-YS6ev-dF.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzRHIQakezaP9kl.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzRHRK8sXqSHJGZ.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                        </MadCap:slideshow>
                     </td>
                     <td class="BodyE-Column1-Body1">
-                        <p class="images">
-                            <img src="Resources/Images/MiiVerse/zlCfzRHVRd4Fvahl0_.jpg" class="tableImage" />
-                            <img src="Resources/Images/MiiVerse/zlCfzSU2kxksVP7jrO.jpg" class="tableImage" />
-                        </p>
+                        <MadCap:slideshow>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzRHVRd4Fvahl0_.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                            <MadCap:slide>
+                                <p>
+                                    <img src="Resources/Images/MiiVerse/zlCfzSU2kxksVP7jrO.jpg" class="tableImage" />
+                                </p>
+                            </MadCap:slide>
+                        </MadCap:slideshow>
                     </td>
                     <td class="BodyE-Column1-Body1">&#160;</td>
                     <td class="BodyE-Column1-Body1">&#160;</td>

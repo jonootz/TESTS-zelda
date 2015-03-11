@@ -85,14 +85,6 @@
           <Property
             Name="Display">block</Property>
           <Property
-            Name="BorderTop">solid 2px #ffffff</Property>
-          <Property
-            Name="BorderRight">solid 2px #ffffff</Property>
-          <Property
-            Name="BorderBottom">solid 2px #ffffff</Property>
-          <Property
-            Name="BorderLeft">solid 2px #ffffff</Property>
-          <Property
             Name="BorderTopLeftRadius">0px</Property>
           <Property
             Name="BorderTopRightRadius">0px</Property>
@@ -100,6 +92,14 @@
             Name="BorderBottomRightRadius">0px</Property>
           <Property
             Name="BorderBottomLeftRadius">0px</Property>
+          <Property
+            Name="BorderTop">none 2px #ffffff</Property>
+          <Property
+            Name="BorderRight">none 2px #ffffff</Property>
+          <Property
+            Name="BorderBottom">none 2px #ffffff</Property>
+          <Property
+            Name="BorderLeft">none 2px #ffffff</Property>
         </Properties>
       </Style>
       <Medium
@@ -115,9 +115,9 @@
           Name="Navigation Panel Item">
           <Properties>
             <Property
-              Name="Color">#ffffff</Property>
-            <Property
               Name="FontFamily">Charlemagne Std</Property>
+            <Property
+              Name="Color">#8b7a38</Property>
           </Properties>
         </Style>
         <Style
@@ -226,13 +226,13 @@
         Name="Search Filter">
         <Properties>
           <Property
-            Name="BorderBottom">solid 0px #ffffff</Property>
-          <Property
-            Name="BorderTop">solid 0px #ffffff</Property>
-          <Property
             Name="BorderRight">solid 5px #5c6351</Property>
           <Property
             Name="BorderLeft">solid 5px #5c6351</Property>
+          <Property
+            Name="BorderTop">none 0px #ffffff</Property>
+          <Property
+            Name="BorderBottom">none 0px #ffffff</Property>
         </Properties>
       </Style>
       <Style
@@ -287,25 +287,25 @@
           Name="Header">
           <Properties>
             <Property
-              Name="BackgroundColor">#87cefa</Property>
+              Name="BackgroundColor">#b8860b</Property>
           </Properties>
         </Style>
         <Style
           Name="Search Input">
           <Properties>
             <Property
-              Name="BackgroundGradient">vertical #6e5906 transparent</Property>
-            <Property
               Name="Color">#6e5906</Property>
+            <Property
+              Name="BackgroundGradient">vertical transparent transparent</Property>
           </Properties>
         </Style>
         <Style
           Name="Search Submit Button">
           <Properties>
             <Property
-              Name="BackgroundColor">transparent</Property>
-            <Property
               Name="BackgroundImage">url('Search%20Icon%20Small.png')</Property>
+            <Property
+              Name="BackgroundColor">#ffffff</Property>
           </Properties>
         </Style>
         <Style
@@ -314,9 +314,9 @@
             <Property
               Name="BackgroundColor">transparent</Property>
             <Property
-              Name="BorderLeft">solid 6px #87cefa</Property>
+              Name="BorderLeft">solid 4px #ffffff</Property>
             <Property
-              Name="BorderRight">solid 5px #87cefa</Property>
+              Name="BorderRight">solid 4px #ffffff</Property>
           </Properties>
         </Style>
         <Style
@@ -341,6 +341,13 @@
               Name="BackgroundColor">transparent</Property>
             <Property
               Name="BackgroundGradient">vertical transparent #6b8e23</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Logo">
+          <Properties>
+            <Property
+              Name="BackgroundGradient">vertical transparent transparent</Property>
           </Properties>
         </Style>
       </Medium>

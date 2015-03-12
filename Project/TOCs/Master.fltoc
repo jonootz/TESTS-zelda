@@ -8,6 +8,9 @@
     StartSection="false"
     PageNumberReset="continue" />
   <TocEntry
+    Title="Game Logos"
+    Link="/Content/Game Logos.htm" />
+  <TocEntry
     Title="HomeConsole"
     BreakType="chapter"
     StartSection="false"

@@ -196,3 +196,11 @@ div.Main img
 	clear: left;
 }
 
+img.logoThumb
+{
+	border: none;
+	mc-thumbnail-max-height: auto;
+	mc-thumbnail: popup;
+	mc-thumbnail-max-width: 300px;
+}
+

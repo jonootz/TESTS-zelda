@@ -107,8 +107,8 @@ div.Main
 	margin-left: 15px;
 	margin-right: 15px;
 	padding: 15px;
-	float: left;
-	width: auto;
+	height: inherit;
+	width: inherit;
 }
 
 body.Main
@@ -160,6 +160,7 @@ p.allimages img
 	border: solid 6px #daa520;
 	padding: 10px;
 	margin: 10px;
+	clear: right;
 }
 
 img.Thumb
@@ -187,5 +188,11 @@ img.tableImage
 	border: none;
 	mc-thumbnail: hover;
 	mc-thumbnail-max-height: 100px;
+}
+
+div.Main img
+{
+	float: left;
+	clear: left;
 }
 

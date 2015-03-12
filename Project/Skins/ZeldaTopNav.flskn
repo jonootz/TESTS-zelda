@@ -149,9 +149,11 @@
             <Property
               Name="BorderLeft">solid 3px #6e5906</Property>
             <Property
-              Name="BorderTop">solid 0px #ffffff</Property>
+              Name="BorderTop">solid 3px #6e5906</Property>
             <Property
-              Name="BorderBottom">solid 0px #ffffff</Property>
+              Name="BorderBottom">solid 3px #6e5906</Property>
+            <Property
+              Name="BackgroundColor">transparent</Property>
           </Properties>
         </Style>
         <Style
@@ -177,7 +179,7 @@
         Name="Header">
         <Properties>
           <Property
-            Name="BackgroundColor">#5c6351</Property>
+            Name="BackgroundColor">#88640b</Property>
         </Properties>
       </Style>
       <Style
@@ -226,13 +228,13 @@
         Name="Search Filter">
         <Properties>
           <Property
-            Name="BorderRight">solid 5px #5c6351</Property>
-          <Property
-            Name="BorderLeft">solid 5px #5c6351</Property>
-          <Property
             Name="BorderTop">none 0px #ffffff</Property>
           <Property
             Name="BorderBottom">none 0px #ffffff</Property>
+          <Property
+            Name="BorderRight">solid 5px #88640b</Property>
+          <Property
+            Name="BorderLeft">solid 5px #88640b</Property>
         </Properties>
       </Style>
       <Style

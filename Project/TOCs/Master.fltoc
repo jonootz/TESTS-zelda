@@ -99,21 +99,21 @@
     Title="Miiverse">
     <TocEntry
       Title="Miiverse Chronology (inline - one paragraph)"
-      Link="/Content/Miiverse - Chronology.htm" />
+      Link="/Content/Miiverse/Miiverse - Chronology.htm" />
     <TocEntry
       Title="Miiverse with Drafts (each in a paragraph)"
-      Link="/Content/Miiverse - With Drafts.htm" />
+      Link="/Content/Miiverse/Miiverse - With Drafts.htm" />
     <TocEntry
       Title="Miiverse with Slides Showing Progression of Select Pieces"
-      Link="/Content/Miiverse - Slides Progression.htm" />
+      Link="/Content/Miiverse/Miiverse - Slides Progression.htm" />
     <TocEntry
       Title="Miiverse Collections"
-      Link="/Content/Miiverse - Collections.htm" />
+      Link="/Content/Miiverse/Miiverse - Collections.htm" />
     <TocEntry
       Title="Miiverse Scaled to Fit Window"
-      Link="/Content/Miiverse - Mobile.htm" />
+      Link="/Content/Miiverse/Miiverse - Mobile.htm" />
     <TocEntry
       Title="Miiverse - Art Per Game"
-      Link="/Content/Miiverse - Art Per Game.htm" />
+      Link="/Content/Miiverse/Miiverse - Art Per Game.htm" />
   </TocEntry>
 </CatapultToc>

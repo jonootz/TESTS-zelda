@@ -204,3 +204,15 @@ img.logoThumb
 	mc-thumbnail-max-width: 300px;
 }
 
+div.GamePage
+{
+	
+}
+
+img.GamePage	/*500 px wide*/
+{
+	border: none;
+	width: 500px;
+	height: auto;
+}
+

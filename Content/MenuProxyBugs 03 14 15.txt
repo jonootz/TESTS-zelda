@@ -1,0 +1,15 @@
+If Menu Proxy in masterpage is aligned to the right, the preview shows content as RTL (Output is fine)
+Copy/Open project
+Open only topic
+Preview it in HTML5
+See that all the Content is aligned to the right
+Build/View output and see it is LTR
+Desired:Preview should only show the menu proxy aligned to the right
+__________________________________________________________________________________________________________________________
+
+
+If Menu Proxy in masterpage is aligned to the right via inline styling, the menu proxy should reflect that in the output
+Copy/Open project
+Build/View output and see Menu proxy is still on the left
+Desired:The menu proxy should be aligned to the right
+__________________________________________________________________________________________________________________________

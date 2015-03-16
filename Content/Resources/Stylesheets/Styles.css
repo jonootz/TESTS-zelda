@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
@@ -204,3 +204,56 @@ img.logoThumb
 	mc-thumbnail-max-width: 300px;
 }
 
+div.GamePage
+{
+	border-bottom: solid 1px #9acd32;
+	padding-bottom: 10px;
+	margin-top: 20px;
+	width: 700px;
+	max-width: 700px;
+}
+
+img.GamePage	/*500 px wide*/
+{
+	border: none;
+	width: 500px;
+	height: auto;
+}
+
+MadCap|dropDownHead.h3GamePage
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+MadCap|dropDownHotspot.h3GamePage
+{
+	cursor: hand;
+	text-decoration: none;
+	color: #000000;
+	font-style: normal;
+}
+
+MadCap|expandingHead.H1GamePage
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+	cursor: hand;
+	text-decoration: none;
+	color: #000000;
+	font-style: normal;
+}
+
+MadCap|dropDownHead.h2GamePage
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+}
+
+MadCap|toggler.H2GamePage
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+	color: #000000;
+	font-style: normal;
+}

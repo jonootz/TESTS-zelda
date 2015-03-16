@@ -8,6 +8,9 @@
     StartSection="false"
     PageNumberReset="continue" />
   <TocEntry
+    Title="Zelda Facts"
+    Link="/Content/SpecialPages/Zelda Facts.htm" />
+  <TocEntry
     Title="Game Logos"
     Link="/Content/Game Logos.htm" />
   <TocEntry

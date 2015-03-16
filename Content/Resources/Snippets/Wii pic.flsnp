@@ -6,7 +6,7 @@
         <p><MadCap:variable name="Variables.Wii" />
         </p>
         <p>
-            <img src="Resources/Images/Capture1.png" class="Console400pxSnippet" />
+            <img src="../Images/Capture1.png" class="Console400pxSnippet" />
         </p>
     </body>
 </html>

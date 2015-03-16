@@ -265,3 +265,27 @@ img.Console400pxSnippet
 	height: auto;
 }
 
+img.GamePageScreen
+{
+	border: none;
+	mc-thumbnail: popup;
+	mc-thumbnail-max-height: auto;
+	mc-thumbnail-max-width: 400px;
+}
+
+img.GamePageMedia
+{
+	border: none;
+	mc-thumbnail: popup;
+	mc-thumbnail-max-height: auto;
+	mc-thumbnail-max-width: 400px;
+}
+
+img.GamePageBox
+{
+	border: none;
+	mc-thumbnail: popup;
+	mc-thumbnail-max-width: 255px;
+	mc-thumbnail-max-height: auto;
+}
+

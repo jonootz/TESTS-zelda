@@ -9,7 +9,8 @@
     PageNumberReset="continue" />
   <TocEntry
     Title="Game Logos"
-    Link="/Content/Game Logos.htm" />
+    Link="/Content/Game Logos.htm"
+    ReplaceMergeNode="false" />
   <TocEntry
     Title="HomeConsole"
     BreakType="chapter"

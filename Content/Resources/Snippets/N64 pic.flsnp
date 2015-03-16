@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="312" MadCap:lastWidth="839">
+    <head>
+    </head>
+    <body>
+        <p>N64 - <MadCap:variable name="Variables.N64" /></p>
+        <p>
+            <img src="../Images/N64.png" class="Console400pxSnippet" />
+        </p>
+    </body>
+</html>

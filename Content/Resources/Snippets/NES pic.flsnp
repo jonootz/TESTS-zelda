@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="271" MadCap:lastWidth="839">
     <body>
         <p>NES - <MadCap:variable name="Variables.NES" /></p>
         <p>
-            <img src="../Images/NES.png" />
+            <img src="../Images/NES.png" class="Console400pxSnippet" />
         </p>
     </body>
 </html>

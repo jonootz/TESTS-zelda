@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 body
 {
@@ -257,3 +257,11 @@ MadCap|toggler.H2GamePage
 	color: #000000;
 	font-style: normal;
 }
+
+img.Console400pxSnippet
+{
+	border: none;
+	width: 400px;
+	height: auto;
+}
+

@@ -96,6 +96,9 @@ div.aaa
 MadCap|conceptLink.Home_Console
 {
 	mc-label: 'See Home Console Specific Games';
+	mc-image: none;
+	color: #b8860b;
+	mc-image-alt-text: Concept Link;
 }
 
 div.Main
@@ -108,7 +111,7 @@ div.Main
 	margin-right: 15px;
 	padding: 15px;
 	height: inherit;
-	width: inherit;
+	width: 800px;
 }
 
 body.Main
@@ -287,5 +290,33 @@ img.GamePageBox
 	mc-thumbnail: popup;
 	mc-thumbnail-max-width: 255px;
 	mc-thumbnail-max-height: auto;
+}
+
+MadCap|conceptLink.home
+{
+	color: #b8860b;
+	mc-image: none;
+	mc-image-alt-text: Concept Link;
+}
+
+MadCap|keywordLink.home
+{
+	color: #b8860b;
+	mc-image-alt-text: Keyword Link;
+	mc-image: none;
+}
+
+MadCap|relatedTopics.home
+{
+	mc-label: 'Original Games (related)';
+	color: #b8860b;
+	mc-image: none;
+}
+
+div.homeSubDiv
+{
+	float: left;
+	background-color: #f5f5f5;
+	width: 350px;
 }
 

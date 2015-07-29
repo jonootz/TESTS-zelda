@@ -12,7 +12,8 @@
   TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
   SearchBarSkin="/Project/Skins/SearchBar.flskn"
   SearchResultsSkin="/Project/Skins/SearchResults.flskn"
-  MasterPage="/Content/Resources/MשדאקרPשעקPage.flmsp">
+  MasterPage="/Content/Resources/MשדאקרPשעקPage.flmsp"
+  GetLatestBeforeCompile="true">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
